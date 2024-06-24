@@ -1,8 +1,8 @@
 
 
-online course registration by using html,css,js,and php
+Application de gestion d'écoles ou centres de formation (html,css,js,and php)
 
-UI part with Html,css,php,bootstrap and mysql database
+
 
 ![Image of user](https://github.com/nikhilkeshava/online-course-registration-/blob/master/screens/Screenshot%20(1084).png)
 ![Image of user](https://github.com/nikhilkeshava/online-course-registration-/blob/master/screens/Screenshot%20(1085).png)
